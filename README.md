@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrey-n-safonov
-- 👀 I’m interested in perl, python, ServiceDesk, ITSM, Machine Learning (ML) algorithms 
+- 👀 I’m interested in Perl, Python, ansible, DevOps, ServiceDesk, ITSM, Machine Learning (ML) algorithms 
 - 📫 How to reach me in telegram http://t.me/andrey_n_safonov or mailto: andrey.n.safonov@gmail.com
 
 <!---
